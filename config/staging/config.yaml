@@ -1,0 +1,28 @@
+baseURL: https://yoursite.example.com/
+params:
+  AuthorName: Jon Doe
+  GitHubUser: spf13
+  ListOfFoo:
+  - foo1
+  - foo2
+  SidebarRecentLimit: 5
+  Subtitle: Hugo is Absurdly Fast!
+permalinks:
+  posts: /:year/:month/:title/
+title: My Hugo Site
+
+frontmatter:
+  date:
+  - date
+  - publishDate
+  - lastmod
+  expiryDate:
+  - expiryDate
+  lastmod:
+  - :git
+  - lastmod
+  - date
+  - publishDate
+  publishDate:
+  - publishDate
+  - date

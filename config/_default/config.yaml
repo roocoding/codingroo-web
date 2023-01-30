@@ -1,0 +1,14 @@
+baseURL: https://yoursite.example.com/
+languageCode: en-us
+params:
+  AuthorName: Jon Doe
+  GitHubUser: spf13
+  ListOfFoo:
+  - foo1
+  - foo2
+  SidebarRecentLimit: 5
+  Subtitle: Hugo is Absurdly Fast!
+permalinks:
+  posts: /:year/:month/:title/
+title: My Hugo Site
+theme: clarity
