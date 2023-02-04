@@ -2,9 +2,9 @@ baseURL: https://alldevops.netlify.app/
 languageCode: en-us
 params:
   AuthorName: Chris Cheng
-  SidebarRecentLimit: 5
+  SidebarRecentLimit: 15
   Subtitle: Living coding
 permalinks:
   posts: /:year/:month/:title/
 title: All About Dev & Ops
-theme: diary
+theme: clarity
