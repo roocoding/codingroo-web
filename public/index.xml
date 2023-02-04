@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Hugo Site</title>
@@ -6,38 +6,98 @@
     <description>Recent content on My Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2023 13:14:25 +1000</lastBuildDate><atom:link href="https://yoursite.example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My_first_post 2</title>
-      <link>https://yoursite.example.com/2023/01/my_first_post-2/</link>
-      <pubDate>Mon, 30 Jan 2023 13:14:25 +1000</pubDate>
-      
-      <guid>https://yoursite.example.com/2023/01/my_first_post-2/</guid>
-      <description>
-        
-          
-            this is line 1 this is line 2 this is line 3 
-          
-          
-        
-      </description>
-    </item>
+    <lastBuildDate>Mon, 30 Jan 2023 13:14:25 +1000</lastBuildDate>
     
-    <item>
-      <title>My_first_post</title>
-      <link>https://yoursite.example.com/2023/01/my_first_post/</link>
-      <pubDate>Sun, 29 Jan 2023 23:14:25 +1000</pubDate>
-      
-      <guid>https://yoursite.example.com/2023/01/my_first_post/</guid>
-      <description>
+        <atom:link href="https://yoursite.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Synology DS414j NAS</title>
+        <link>https://yoursite.example.com/2023/01/synology-ds414j-nas/</link>
+        <pubDate>Mon, 30 Jan 2023 13:14:25 +1000</pubDate>
         
-          
-            this is line 1 this is line 2 this is line 3 
-          
-          
+        <guid>https://yoursite.example.com/2023/01/synology-ds414j-nas/</guid>
+        <description>My Hugo Site https://yoursite.example.com/2023/01/synology-ds414j-nas/ -&lt;h1 id=&#34;synology-ds414j-nas&#34;&gt;Synology DS414j NAS&lt;/h1&gt;
+&lt;h2 id=&#34;specifications&#34;&gt;Specifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: Marvell Armada XP dual-core 1.06 GHz&lt;/li&gt;
+&lt;li&gt;RAM: 512 MB DDR3&lt;/li&gt;
+&lt;li&gt;Storage: 4 bays for 3.5-inch or 2.5-inch SATA hard drives or solid-state drives&lt;/li&gt;
+&lt;li&gt;Operating System: Synology DiskStation Manager (DSM)&lt;/li&gt;
+&lt;li&gt;Other Features: Advanced Btrfs file system, multiple backup options, media server, and more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software-specifications&#34;&gt;Software Specifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Operating System: Synology DiskStation Manager (DSM)&lt;/li&gt;
+&lt;li&gt;Supported Applications: A wide range of applications are available for download from the Synology Package Center, including backup, cloud storage, multimedia, and more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;price&#34;&gt;Price&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Original Launch Price: Around $349.99 USD in 2013&lt;/li&gt;
+&lt;li&gt;Current Market Price for Second-hand or Refurbished Unit: $100 - $300, depending on condition, storage capacity, and location.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;competitors&#34;&gt;Competitors&lt;/h2&gt;
+&lt;p&gt;Here are some popular alternatives to the Synology DS414j NAS:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;QNAP TS-451+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: Intel Celeron quad-core&lt;/li&gt;
+&lt;li&gt;RAM: 4GB&lt;/li&gt;
+&lt;li&gt;Bays: 4&lt;/li&gt;
+&lt;li&gt;Launch Year: 2015&lt;/li&gt;
+&lt;li&gt;Current Market Price: $450 - $500&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Western Digital My Cloud EX4100&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: Marvell ARMADA 1.6GHz processor&lt;/li&gt;
+&lt;li&gt;RAM: 2GB&lt;/li&gt;
+&lt;li&gt;Bays: 4&lt;/li&gt;
+&lt;li&gt;Launch Year: 2014&lt;/li&gt;
+&lt;li&gt;Current Market Price: $350 - $450&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ASUSTOR AS6104T&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: Dual-core Intel Celeron&lt;/li&gt;
+&lt;li&gt;RAM: 2GB&lt;/li&gt;
+&lt;li&gt;Bays: 4&lt;/li&gt;
+&lt;li&gt;Launch Year: 2014&lt;/li&gt;
+&lt;li&gt;Current Market Price: $400 - $450&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Netgear ReadyNAS RN214&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: Dual-core Annapurna Labs processor&lt;/li&gt;
+&lt;li&gt;RAM: 2GB&lt;/li&gt;
+&lt;li&gt;Bays: 4&lt;/li&gt;
+&lt;li&gt;Launch Year: 2013&lt;/li&gt;
+&lt;li&gt;Current Market Price: $350 - $400&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+- https://yoursite.example.com/2023/01/synology-ds414j-nas/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>My_first_post</title>
+        <link>https://yoursite.example.com/2023/01/my_first_post/</link>
+        <pubDate>Sun, 29 Jan 2023 23:14:25 +1000</pubDate>
         
-      </description>
-    </item>
+        <guid>https://yoursite.example.com/2023/01/my_first_post/</guid>
+        <description>My Hugo Site https://yoursite.example.com/2023/01/my_first_post/ -&lt;h1 id=&#34;this-is-line-1&#34;&gt;this is line 1&lt;/h1&gt;
+&lt;h2 id=&#34;this-is-line-2&#34;&gt;this is line 2&lt;/h2&gt;
+&lt;h3 id=&#34;this-is-line-3&#34;&gt;this is line 3&lt;/h3&gt;
+- https://yoursite.example.com/2023/01/my_first_post/ - </description>
+        </item>
+    
     
   </channel>
-</rss>
+</rss> 
