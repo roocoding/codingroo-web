@@ -1,14 +1,10 @@
-baseURL: https://yoursite.example.com/
+baseURL: https://alldevops.netlify.app/
 languageCode: en-us
 params:
-  AuthorName: Jon Doe
-  GitHubUser: spf13
-  ListOfFoo:
-  - foo1
-  - foo2
+  AuthorName: Chris Cheng
   SidebarRecentLimit: 5
-  Subtitle: Hugo is Absurdly Fast!
+  Subtitle: Living coding
 permalinks:
   posts: /:year/:month/:title/
-title: My Hugo Site
+title: All About Dev & Ops
 theme: diary
