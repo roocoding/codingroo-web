@@ -1,6 +1,9 @@
 ---
 title: "Learning Docker From Scratch"
 date: 2023-02-05T20:26:21+10:00
+categories:
+    - "Docker"
+    - "Containerization"
 ---
 
 # Learning Docker from Zero
