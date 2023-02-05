@@ -11,4 +11,6 @@
     <p>{{ T "copyright" | markdownify }}{{ with $s.since }}&nbsp;{{ . }}-{{ end }}&nbsp;<span class="year"></span>&nbsp;{{ upper $t }}. {{ T "all_rights" | markdownify }}&nbsp;&nbsp;<a href="mailto:chris.codingroo@gmail.com">Email Chris chris.codingroo@gmail.com</p>
     {{- partialCached "top" .}}
   </div>
+  {{ $counter := .Site.GetPage "counter.md" }}
+  {{ $counter.Content | safeHTML }}
 </footer>
